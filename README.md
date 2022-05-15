@@ -9,3 +9,9 @@
 ## 비디오, 범위 수정
 - run.sh 파일 또는
 - 위의 커맨드에서 --vid, --start 변경
+<br/>
+
+
+
+## 예시
+<p align="center"><img width="100%" src="./Figure_1.png"></p>
